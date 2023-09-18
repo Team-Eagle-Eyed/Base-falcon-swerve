@@ -5,7 +5,7 @@ Uses MK4i L2 swerve modules.
 
 
 Remember to:
-Edit the constants file to match your needs. Things needing changing marked with "//TODO: This must be tuned to specific robot". 
+Edit the constants file to match your needs. Things needing changing marked with "//TODO: This must be tuned to specific robot".  
 Set your team number  
 [Some handy instructions](https://github.com/Team364/BaseFalconSwerve#setting-constants) from team 384.  
 
