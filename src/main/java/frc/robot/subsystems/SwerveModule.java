@@ -1,3 +1,8 @@
+/*
+ * !!This file used to be in the /robot directory. I moved it to the /subsystems directory because it seemed more organized. If you think it might help to move it back,
+ * !!think again. If you still think it needs to go back, go ahead then, just don't break anything.
+ */
+
 package frc.robot.subsystems;
 
 import edu.wpi.first.math.controller.SimpleMotorFeedforward;
