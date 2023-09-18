@@ -1,5 +1,5 @@
 # Base-falcon-swerve
-Template for falcon swerve drive.
+Template for falcon swerve drive, includes swerve drive with Falcons and basic pathplanner auto.
 Based on team 364's base falcon swerve.
 Uses MK4i L2 swerve modules.
 
